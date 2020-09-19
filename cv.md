@@ -15,3 +15,6 @@ Strong traits:
 • Versatility
 Level of English: Upper-Intermediate, english courses 2007-2019
 Skills: Basic knowledge of C, C++, C# and Unity, Java. I made racing game in Unity as a course project. 
+Code examples:
+https://github.com/JuliaZhukovskaya/RacingProject
+https://github.com/JuliaZhukovskaya/SpaceX
