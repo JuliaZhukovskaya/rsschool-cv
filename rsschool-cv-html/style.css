@@ -1,0 +1,16 @@
+body {
+    font-family: 'Kumbh Sans', sans-serif;
+    background-color: lavender;
+    font-weight: 400;
+}
+
+.container {
+    margin: 100px 300px 0 300px;
+    padding: 20px 30px 20px 30px ;
+    border: 1px solid #D4D4D4;
+}
+
+
+.header {
+    text-align: center;
+}
